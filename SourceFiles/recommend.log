@@ -1,0 +1,40 @@
+[2025-05-19 17:50:29,953] INFO - Loading Data..
+[2025-05-19 17:50:29,953] ERROR - Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-05-19 17:51:53,363] INFO - Loading Data..
+[2025-05-19 17:51:53,363] ERROR - Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-05-19 18:06:06,107] INFO - Loading Data..
+[2025-05-19 18:06:07,998] INFO - Data loaded successfully
+[2025-05-19 18:06:19,798] INFO - Recommending songs for: '- Human'
+[2025-05-19 18:06:19,808] INFO - Top 5 recommendations ready.
+[2025-05-19 18:06:19,877] INFO - Recommending songs for: '- Human'
+[2025-05-19 18:06:19,880] INFO - Top 5 recommendations ready.
+[2025-05-19 18:09:25,948] INFO - Loading Data..
+[2025-05-19 18:09:26,520] INFO - Data loaded successfully
+[2025-05-19 18:13:52,224] INFO - Loading Data..
+[2025-05-19 18:13:52,871] INFO - Data loaded successfully
+[2025-05-19 18:22:42,211] INFO - Loading Data..
+[2025-05-19 18:22:42,832] INFO - Data loaded successfully
+[2025-05-19 18:22:51,909] INFO - Recommending songs for: '4 White Stallions'
+[2025-05-19 18:22:51,922] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:13,976] INFO - Recommending songs for: 'A New Kind Of Man'
+[2025-05-19 18:23:13,986] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:18,726] INFO - Recommending songs for: '(I Could Have Been Your) Best Old Friend'
+[2025-05-19 18:23:18,734] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:24,916] INFO - Recommending songs for: 'A House Is Not A Home'
+[2025-05-19 18:23:24,925] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:28,309] INFO - Recommending songs for: '9 To 5'
+[2025-05-19 18:23:28,317] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:33,841] INFO - Recommending songs for: 'Already Alright'
+[2025-05-19 18:23:33,851] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:40,021] INFO - Recommending songs for: ''Cause I Love You'
+[2025-05-19 18:23:40,029] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:41,350] INFO - Recommending songs for: ''Cause I Love You'
+[2025-05-19 18:23:41,359] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:41,961] INFO - Recommending songs for: ''Cause I Love You'
+[2025-05-19 18:23:41,970] INFO - Top 5 recommendations ready.
+[2025-05-19 18:23:56,591] INFO - Recommending songs for: 'Check My Brain'
+[2025-05-19 18:23:56,600] INFO - Top 5 recommendations ready.
+[2025-05-19 18:24:00,940] INFO - Recommending songs for: ''di Bale Na Lang'
+[2025-05-19 18:24:00,948] INFO - Top 5 recommendations ready.
+[2025-05-19 18:24:16,586] INFO - Loading Data..
+[2025-05-19 18:24:17,263] INFO - Data loaded successfully

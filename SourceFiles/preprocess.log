@@ -1,0 +1,24 @@
+[2025-05-19 17:49:04,544] INFO - Starting Preprocessing
+[2025-05-19 17:49:05,990] INFO - ✅ Dataset loaded and sampled: 10000 rows
+[2025-05-19 17:49:05,992] INFO -  Cleaning Text...
+[2025-05-19 17:49:09,443] INFO - Text Cleaned
+[2025-05-19 17:49:09,443] INFO - Vectorization using TF-IDF..
+[2025-05-19 17:49:09,798] INFO - TF-IDF matrix shape: (10000, 5000)
+[2025-05-19 17:49:09,798] INFO - Calculating cosine similarity
+[2025-05-19 17:57:14,176] INFO - Starting Preprocessing
+[2025-05-19 17:57:15,244] INFO - ✅ Dataset loaded and sampled: 10000 rows
+[2025-05-19 17:57:15,247] INFO -  Cleaning Text...
+[2025-05-19 17:57:18,685] INFO - Text Cleaned
+[2025-05-19 17:57:18,685] INFO - Vectorization using TF-IDF..
+[2025-05-19 17:57:19,039] INFO - TF-IDF matrix shape: (10000, 5000)
+[2025-05-19 17:57:19,039] INFO - Calculating cosine similarity
+[2025-05-19 18:04:32,916] INFO - Starting Preprocessing
+[2025-05-19 18:04:33,832] INFO - ✅ Dataset loaded and sampled: 10000 rows
+[2025-05-19 18:04:33,834] INFO -  Cleaning Text...
+[2025-05-19 18:04:37,303] INFO - Text Cleaned
+[2025-05-19 18:04:37,303] INFO - Vectorization using TF-IDF..
+[2025-05-19 18:04:37,653] INFO - TF-IDF matrix shape: (10000, 5000)
+[2025-05-19 18:04:37,653] INFO - Calculating cosine similarity
+[2025-05-19 18:04:39,612] INFO - Cosine Similarity Generated.
+[2025-05-19 18:04:40,057] INFO - Data Saved to disk.
+[2025-05-19 18:04:40,057] INFO - Preprocessing Complete.
